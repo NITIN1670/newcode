@@ -1,0 +1,339 @@
+E:\BingeShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\BingeShop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.StaticWebAssets.xml
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.exe
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.deps.json
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.runtimeconfig.json
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.runtimeconfig.dev.json
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.pdb
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.Views.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\TwinTowels.Views.pdb
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\BingeShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.AssemblyInfoInputs.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.AssemblyInfo.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.csproj.CoreCompileInputs.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.MvcApplicationPartsAssemblyInfo.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.MvcApplicationPartsAssemblyInfo.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.RazorAssemblyInfo.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.RazorAssemblyInfo.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\staticwebassets\TwinTowels.StaticWebAssets.Manifest.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\staticwebassets\TwinTowels.StaticWebAssets.xml
+E:\BingeShop\obj\Debug\netcoreapp3.1\scopedcss\bundle\TwinTowels.styles.css
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.TagHelpers.input.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.TagHelpers.output.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.RazorCoreGenerate.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.RazorTargetAssemblyInfo.cache
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.RazorTargetAssemblyInfo.cs
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.Views.pdb
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.csproj.CopyComplete
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.dll
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.pdb
+E:\BingeShop\obj\Debug\netcoreapp3.1\TwinTowels.genruntimeconfig.cache
+E:\Twe Towels\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Twe Towels\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.StaticWebAssets.xml
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.exe
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.deps.json
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.runtimeconfig.json
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.runtimeconfig.dev.json
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.pdb
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.Views.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\TwinTowels.Views.pdb
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Twe Towels\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.csprojAssemblyReference.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.AssemblyInfoInputs.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.AssemblyInfo.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.csproj.CoreCompileInputs.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.MvcApplicationPartsAssemblyInfo.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.MvcApplicationPartsAssemblyInfo.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.RazorAssemblyInfo.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.RazorAssemblyInfo.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\staticwebassets\TwinTowels.StaticWebAssets.Manifest.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\staticwebassets\TwinTowels.StaticWebAssets.xml
+E:\Twe Towels\obj\Debug\netcoreapp3.1\scopedcss\bundle\TwinTowels.styles.css
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.TagHelpers.input.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.TagHelpers.output.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.RazorCoreGenerate.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.RazorTargetAssemblyInfo.cache
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.RazorTargetAssemblyInfo.cs
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.Views.pdb
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.csproj.CopyComplete
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.dll
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.pdb
+E:\Twe Towels\obj\Debug\netcoreapp3.1\TwinTowels.genruntimeconfig.cache
